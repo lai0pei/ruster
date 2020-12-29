@@ -1,2 +1,2 @@
 # ruster
-A random featured system based on Actix framework
+A personal project based on Actix framework
